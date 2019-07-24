@@ -1,0 +1,8 @@
+/* 加入按鈕與排版 */
+#search-bar {
+  display: flex;
+  flex-flow: row no-wrap;
+  justify-content: space-between;
+  padding: 0 17px;
+}
+
